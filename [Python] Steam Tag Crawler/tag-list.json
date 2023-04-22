@@ -1,0 +1,1772 @@
+{
+    "steam-tag": [
+        {
+            "popularity": 1,
+            "tag": "인디"
+        },
+        {
+            "popularity": 2,
+            "tag": "액션"
+        },
+        {
+            "popularity": 3,
+            "tag": "어드벤처"
+        },
+        {
+            "popularity": 4,
+            "tag": "캐주얼"
+        },
+        {
+            "popularity": 5,
+            "tag": "RPG"
+        },
+        {
+            "popularity": 6,
+            "tag": "시뮬레이션"
+        },
+        {
+            "popularity": 7,
+            "tag": "전략"
+        },
+        {
+            "popularity": 8,
+            "tag": "싱글 플레이어"
+        },
+        {
+            "popularity": 9,
+            "tag": "앞서 해보기"
+        },
+        {
+            "popularity": 10,
+            "tag": "무료 플레이"
+        },
+        {
+            "popularity": 11,
+            "tag": "2D"
+        },
+        {
+            "popularity": 12,
+            "tag": "3D"
+        },
+        {
+            "popularity": 13,
+            "tag": "분위기 있는"
+        },
+        {
+            "popularity": 14,
+            "tag": "판타지"
+        },
+        {
+            "popularity": 15,
+            "tag": "풍부한 스토리"
+        },
+        {
+            "popularity": 16,
+            "tag": "다채로운"
+        },
+        {
+            "popularity": 17,
+            "tag": "멀티플레이어"
+        },
+        {
+            "popularity": 18,
+            "tag": "퍼즐"
+        },
+        {
+            "popularity": 19,
+            "tag": "MMO"
+        },
+        {
+            "popularity": 20,
+            "tag": "픽셀 그래픽"
+        },
+        {
+            "popularity": 21,
+            "tag": "스포츠"
+        },
+        {
+            "popularity": 22,
+            "tag": "탐험"
+        },
+        {
+            "popularity": 23,
+            "tag": "폭력"
+        },
+        {
+            "popularity": 24,
+            "tag": "귀여운"
+        },
+        {
+            "popularity": 25,
+            "tag": "1인칭"
+        },
+        {
+            "popularity": 26,
+            "tag": "레이싱"
+        },
+        {
+            "popularity": 27,
+            "tag": "전투"
+        },
+        {
+            "popularity": 28,
+            "tag": "누드"
+        },
+        {
+            "popularity": 29,
+            "tag": "선정적인 내용"
+        },
+        {
+            "popularity": 30,
+            "tag": "애니메이션"
+        },
+        {
+            "popularity": 31,
+            "tag": "유머"
+        },
+        {
+            "popularity": 32,
+            "tag": "아케이드"
+        },
+        {
+            "popularity": 33,
+            "tag": "공상과학"
+        },
+        {
+            "popularity": 34,
+            "tag": "액션 어드벤처"
+        },
+        {
+            "popularity": 35,
+            "tag": "슈팅"
+        },
+        {
+            "popularity": 36,
+            "tag": "고어"
+        },
+        {
+            "popularity": 37,
+            "tag": "릴랙싱"
+        },
+        {
+            "popularity": 38,
+            "tag": "공포"
+        },
+        {
+            "popularity": 39,
+            "tag": "복고풍"
+        },
+        {
+            "popularity": 40,
+            "tag": "전체 이용가"
+        },
+        {
+            "popularity": 41,
+            "tag": "3인칭"
+        },
+        {
+            "popularity": 42,
+            "tag": "여주인공"
+        },
+        {
+            "popularity": 43,
+            "tag": "오픈 월드"
+        },
+        {
+            "popularity": 44,
+            "tag": "협동"
+        },
+        {
+            "popularity": 45,
+            "tag": "플랫폼"
+        },
+        {
+            "popularity": 46,
+            "tag": "컨트롤러"
+        },
+        {
+            "popularity": 47,
+            "tag": "양식화된"
+        },
+        {
+            "popularity": 48,
+            "tag": "생존"
+        },
+        {
+            "popularity": 49,
+            "tag": "PvP"
+        },
+        {
+            "popularity": 50,
+            "tag": "선택의 중요성"
+        },
+        {
+            "popularity": 51,
+            "tag": "코미디"
+        },
+        {
+            "popularity": 52,
+            "tag": "탑다운"
+        },
+        {
+            "popularity": 53,
+            "tag": "현실적"
+        },
+        {
+            "popularity": 54,
+            "tag": "비주얼 노벨"
+        },
+        {
+            "popularity": 55,
+            "tag": "어두운"
+        },
+        {
+            "popularity": 56,
+            "tag": "1인칭 슈팅"
+        },
+        {
+            "popularity": 57,
+            "tag": "캐릭터 커스터마이즈"
+        },
+        {
+            "popularity": 58,
+            "tag": "물리"
+        },
+        {
+            "popularity": 59,
+            "tag": "올드 스쿨"
+        },
+        {
+            "popularity": 60,
+            "tag": "PvE"
+        },
+        {
+            "popularity": 61,
+            "tag": "고난이도"
+        },
+        {
+            "popularity": 62,
+            "tag": "만화 같은"
+        },
+        {
+            "popularity": 63,
+            "tag": "온라인 협동"
+        },
+        {
+            "popularity": 64,
+            "tag": "미스터리"
+        },
+        {
+            "popularity": 65,
+            "tag": "VR"
+        },
+        {
+            "popularity": 66,
+            "tag": "2D 플랫폼"
+        },
+        {
+            "popularity": 67,
+            "tag": "선형"
+        },
+        {
+            "popularity": 68,
+            "tag": "웅장한 사운드트랙"
+        },
+        {
+            "popularity": 69,
+            "tag": "복수 결말"
+        },
+        {
+            "popularity": 70,
+            "tag": "심리적 공포"
+        },
+        {
+            "popularity": 71,
+            "tag": "샌드박스"
+        },
+        {
+            "popularity": 72,
+            "tag": "중세"
+        },
+        {
+            "popularity": 73,
+            "tag": "전술"
+        },
+        {
+            "popularity": 74,
+            "tag": "마법"
+        },
+        {
+            "popularity": 75,
+            "tag": "미니멀리스트"
+        },
+        {
+            "popularity": 76,
+            "tag": "액션 RPG"
+        },
+        {
+            "popularity": 77,
+            "tag": "미래적"
+        },
+        {
+            "popularity": 78,
+            "tag": "우주"
+        },
+        {
+            "popularity": 79,
+            "tag": "건설"
+        },
+        {
+            "popularity": 80,
+            "tag": "포인트 앤드 클릭"
+        },
+        {
+            "popularity": 81,
+            "tag": "슛뎀업"
+        },
+        {
+            "popularity": 82,
+            "tag": "손으로 그린"
+        },
+        {
+            "popularity": 83,
+            "tag": "크래프팅"
+        },
+        {
+            "popularity": 84,
+            "tag": "경영"
+        },
+        {
+            "popularity": 85,
+            "tag": "디자인 및 일러스트레이션"
+        },
+        {
+            "popularity": 86,
+            "tag": "로컬 멀티플레이어"
+        },
+        {
+            "popularity": 87,
+            "tag": "만화"
+        },
+        {
+            "popularity": 88,
+            "tag": "로그라이크"
+        },
+        {
+            "popularity": 89,
+            "tag": "횡스크롤"
+        },
+        {
+            "popularity": 90,
+            "tag": "드라마"
+        },
+        {
+            "popularity": 91,
+            "tag": "절차적 생성"
+        },
+        {
+            "popularity": 92,
+            "tag": "자원관리"
+        },
+        {
+            "popularity": 93,
+            "tag": "성인"
+        },
+        {
+            "popularity": 94,
+            "tag": "다크 판타지"
+        },
+        {
+            "popularity": 95,
+            "tag": "논리"
+        },
+        {
+            "popularity": 96,
+            "tag": "생존 공포"
+        },
+        {
+            "popularity": 97,
+            "tag": "교육"
+        },
+        {
+            "popularity": 98,
+            "tag": "유틸리티"
+        },
+        {
+            "popularity": 99,
+            "tag": "로그라이트"
+        },
+        {
+            "popularity": 100,
+            "tag": "1980년대"
+        },
+        {
+            "popularity": 101,
+            "tag": "퍼즐 플랫폼"
+        },
+        {
+            "popularity": 102,
+            "tag": "3D 플랫폼"
+        },
+        {
+            "popularity": 103,
+            "tag": "자신이 선택하는 모험"
+        },
+        {
+            "popularity": 104,
+            "tag": "로맨스"
+        },
+        {
+            "popularity": 105,
+            "tag": "턴제 전투"
+        },
+        {
+            "popularity": 106,
+            "tag": "핵 앤 슬래시"
+        },
+        {
+            "popularity": 107,
+            "tag": "전쟁"
+        },
+        {
+            "popularity": 108,
+            "tag": "턴제 전략"
+        },
+        {
+            "popularity": 109,
+            "tag": "감정적인"
+        },
+        {
+            "popularity": 110,
+            "tag": "좀비"
+        },
+        {
+            "popularity": 111,
+            "tag": "테이블탑"
+        },
+        {
+            "popularity": 112,
+            "tag": "쌍방향 소설"
+        },
+        {
+            "popularity": 113,
+            "tag": "턴제 전술"
+        },
+        {
+            "popularity": 114,
+            "tag": "포스트아포칼립스"
+        },
+        {
+            "popularity": 115,
+            "tag": "기지 건설"
+        },
+        {
+            "popularity": 116,
+            "tag": "헨타이"
+        },
+        {
+            "popularity": 117,
+            "tag": "몰입형 시뮬레이션"
+        },
+        {
+            "popularity": 118,
+            "tag": "자연"
+        },
+        {
+            "popularity": 119,
+            "tag": "연애 시뮬레이션"
+        },
+        {
+            "popularity": 120,
+            "tag": "히든 오브젝트"
+        },
+        {
+            "popularity": 121,
+            "tag": "JRPG"
+        },
+        {
+            "popularity": 122,
+            "tag": "로컬 협동"
+        },
+        {
+            "popularity": 123,
+            "tag": "초현실적"
+        },
+        {
+            "popularity": 124,
+            "tag": "리플레이 가치"
+        },
+        {
+            "popularity": 125,
+            "tag": "1990년대"
+        },
+        {
+            "popularity": 126,
+            "tag": "역사"
+        },
+        {
+            "popularity": 127,
+            "tag": "파티 기반 RPG"
+        },
+        {
+            "popularity": 128,
+            "tag": "턴제"
+        },
+        {
+            "popularity": 129,
+            "tag": "탄막 슈팅"
+        },
+        {
+            "popularity": 130,
+            "tag": "던전 크롤러"
+        },
+        {
+            "popularity": 131,
+            "tag": "액션 로그라이크"
+        },
+        {
+            "popularity": 132,
+            "tag": "잠입"
+        },
+        {
+            "popularity": 133,
+            "tag": "내레이션"
+        },
+        {
+            "popularity": 134,
+            "tag": "걷기 시뮬레이션"
+        },
+        {
+            "popularity": 135,
+            "tag": "스코어 어택"
+        },
+        {
+            "popularity": 136,
+            "tag": "군사"
+        },
+        {
+            "popularity": 137,
+            "tag": "3인칭 슈팅"
+        },
+        {
+            "popularity": 138,
+            "tag": "시네마틱"
+        },
+        {
+            "popularity": 139,
+            "tag": "밈"
+        },
+        {
+            "popularity": 140,
+            "tag": "웹 퍼블리싱"
+        },
+        {
+            "popularity": 141,
+            "tag": "탑다운 슈팅"
+        },
+        {
+            "popularity": 142,
+            "tag": "텍스트 기반"
+        },
+        {
+            "popularity": 143,
+            "tag": "후방주의"
+        },
+        {
+            "popularity": 144,
+            "tag": "대화"
+        },
+        {
+            "popularity": 145,
+            "tag": "2.5D"
+        },
+        {
+            "popularity": 146,
+            "tag": "외계인"
+        },
+        {
+            "popularity": 147,
+            "tag": "LGBTQ+"
+        },
+        {
+            "popularity": 148,
+            "tag": "사이버펑크"
+        },
+        {
+            "popularity": 149,
+            "tag": "로봇"
+        },
+        {
+            "popularity": 150,
+            "tag": "아이소메트릭"
+        },
+        {
+            "popularity": 151,
+            "tag": "팀 기반"
+        },
+        {
+            "popularity": 152,
+            "tag": "수사"
+        },
+        {
+            "popularity": 153,
+            "tag": "블랙 유머"
+        },
+        {
+            "popularity": 154,
+            "tag": "비선형"
+        },
+        {
+            "popularity": 155,
+            "tag": "실시간 전략"
+        },
+        {
+            "popularity": 156,
+            "tag": "인벤토리 관리"
+        },
+        {
+            "popularity": 157,
+            "tag": "카드 게임"
+        },
+        {
+            "popularity": 158,
+            "tag": "인공 지능"
+        },
+        {
+            "popularity": 159,
+            "tag": "튜토리얼"
+        },
+        {
+            "popularity": 160,
+            "tag": "빠른 진행"
+        },
+        {
+            "popularity": 161,
+            "tag": "깊은 세계관"
+        },
+        {
+            "popularity": 162,
+            "tag": "생활 시뮬레이션"
+        },
+        {
+            "popularity": 163,
+            "tag": "악령"
+        },
+        {
+            "popularity": 164,
+            "tag": "추상적"
+        },
+        {
+            "popularity": 165,
+            "tag": "단편"
+        },
+        {
+            "popularity": 166,
+            "tag": "클리커"
+        },
+        {
+            "popularity": 167,
+            "tag": "전략 RPG"
+        },
+        {
+            "popularity": 168,
+            "tag": "경제"
+        },
+        {
+            "popularity": 169,
+            "tag": "애니메이션과 모델링"
+        },
+        {
+            "popularity": 170,
+            "tag": "퍼마 데스"
+        },
+        {
+            "popularity": 171,
+            "tag": "심리적"
+        },
+        {
+            "popularity": 172,
+            "tag": "스릴러"
+        },
+        {
+            "popularity": 173,
+            "tag": "운전"
+        },
+        {
+            "popularity": 174,
+            "tag": "아레나 슈팅"
+        },
+        {
+            "popularity": 175,
+            "tag": "수사관"
+        },
+        {
+            "popularity": 176,
+            "tag": "실시간 전술"
+        },
+        {
+            "popularity": 177,
+            "tag": "클래식"
+        },
+        {
+            "popularity": 178,
+            "tag": "보드게임"
+        },
+        {
+            "popularity": 179,
+            "tag": "현대"
+        },
+        {
+            "popularity": 180,
+            "tag": "초자연적"
+        },
+        {
+            "popularity": 181,
+            "tag": "소프트웨어"
+        },
+        {
+            "popularity": 182,
+            "tag": "반이상향"
+        },
+        {
+            "popularity": 183,
+            "tag": "4명 로컬 플레이"
+        },
+        {
+            "popularity": 184,
+            "tag": "사이키델릭"
+        },
+        {
+            "popularity": 185,
+            "tag": "비행"
+        },
+        {
+            "popularity": 186,
+            "tag": "정밀 플랫폼"
+        },
+        {
+            "popularity": 187,
+            "tag": "시간 관리"
+        },
+        {
+            "popularity": 188,
+            "tag": "타워 디펜스"
+        },
+        {
+            "popularity": 189,
+            "tag": "약탈"
+        },
+        {
+            "popularity": 190,
+            "tag": "전술 RPG"
+        },
+        {
+            "popularity": 191,
+            "tag": "음악"
+        },
+        {
+            "popularity": 192,
+            "tag": "도시 건설"
+        },
+        {
+            "popularity": 193,
+            "tag": "RPG 제작"
+        },
+        {
+            "popularity": 194,
+            "tag": "소울라이크"
+        },
+        {
+            "popularity": 195,
+            "tag": "영화"
+        },
+        {
+            "popularity": 196,
+            "tag": "사운드트랙"
+        },
+        {
+            "popularity": 197,
+            "tag": "파괴"
+        },
+        {
+            "popularity": 198,
+            "tag": "비뎀업"
+        },
+        {
+            "popularity": 199,
+            "tag": "전쟁 게임"
+        },
+        {
+            "popularity": 200,
+            "tag": "메트로배니아"
+        },
+        {
+            "popularity": 201,
+            "tag": "만화책"
+        },
+        {
+            "popularity": 202,
+            "tag": "모드 가능"
+        },
+        {
+            "popularity": 203,
+            "tag": "대체 역사"
+        },
+        {
+            "popularity": 204,
+            "tag": "아름다운"
+        },
+        {
+            "popularity": 205,
+            "tag": "실험적"
+        },
+        {
+            "popularity": 206,
+            "tag": "격투"
+        },
+        {
+            "popularity": 207,
+            "tag": "레벨 에디터"
+        },
+        {
+            "popularity": 208,
+            "tag": "신화"
+        },
+        {
+            "popularity": 209,
+            "tag": "러너"
+        },
+        {
+            "popularity": 210,
+            "tag": "동영상 프로덕션"
+        },
+        {
+            "popularity": 211,
+            "tag": "오디오 프로덕션"
+        },
+        {
+            "popularity": 212,
+            "tag": "컬렉터톤"
+        },
+        {
+            "popularity": 213,
+            "tag": "그리드 기반 움직임"
+        },
+        {
+            "popularity": 214,
+            "tag": "범죄"
+        },
+        {
+            "popularity": 215,
+            "tag": "2D 격투"
+        },
+        {
+            "popularity": 216,
+            "tag": "경쟁"
+        },
+        {
+            "popularity": 217,
+            "tag": "게임 개발"
+        },
+        {
+            "popularity": 218,
+            "tag": "파쿠르"
+        },
+        {
+            "popularity": 219,
+            "tag": "MMORPG"
+        },
+        {
+            "popularity": 220,
+            "tag": "CRPG"
+        },
+        {
+            "popularity": 221,
+            "tag": "블랙 코미디"
+        },
+        {
+            "popularity": 222,
+            "tag": "아이들러"
+        },
+        {
+            "popularity": 223,
+            "tag": "클래스 기반"
+        },
+        {
+            "popularity": 224,
+            "tag": "덱빌딩"
+        },
+        {
+            "popularity": 225,
+            "tag": "철학적"
+        },
+        {
+            "popularity": 226,
+            "tag": "총 커스터마이즈"
+        },
+        {
+            "popularity": 227,
+            "tag": "제2차 세계 대전"
+        },
+        {
+            "popularity": 228,
+            "tag": "트윈 스틱 슈팅"
+        },
+        {
+            "popularity": 229,
+            "tag": "자동차 시뮬레이션"
+        },
+        {
+            "popularity": 230,
+            "tag": "과학"
+        },
+        {
+            "popularity": 231,
+            "tag": "카드 배틀"
+        },
+        {
+            "popularity": 232,
+            "tag": "협동 캠페인"
+        },
+        {
+            "popularity": 233,
+            "tag": "리듬"
+        },
+        {
+            "popularity": 234,
+            "tag": "고양이"
+        },
+        {
+            "popularity": 235,
+            "tag": "칼 싸움"
+        },
+        {
+            "popularity": 236,
+            "tag": "우주 시뮬레이션"
+        },
+        {
+            "popularity": 237,
+            "tag": "차량 전투"
+        },
+        {
+            "popularity": 238,
+            "tag": "용"
+        },
+        {
+            "popularity": 239,
+            "tag": "대전략"
+        },
+        {
+            "popularity": 240,
+            "tag": "배틀 로얄"
+        },
+        {
+            "popularity": 241,
+            "tag": "러브크래프트"
+        },
+        {
+            "popularity": 242,
+            "tag": "3D 격투"
+        },
+        {
+            "popularity": 243,
+            "tag": "6DOF"
+        },
+        {
+            "popularity": 244,
+            "tag": "e스포츠"
+        },
+        {
+            "popularity": 245,
+            "tag": "3D 비전"
+        },
+        {
+            "popularity": 246,
+            "tag": "아메리카"
+        },
+        {
+            "popularity": 247,
+            "tag": "소프트웨어 교육"
+        },
+        {
+            "popularity": 248,
+            "tag": "누아르"
+        },
+        {
+            "popularity": 249,
+            "tag": "자본주의"
+        },
+        {
+            "popularity": 250,
+            "tag": "매치 3"
+        },
+        {
+            "popularity": 251,
+            "tag": "음모"
+        },
+        {
+            "popularity": 252,
+            "tag": "캐릭터 액션 게임"
+        },
+        {
+            "popularity": 253,
+            "tag": "유혈"
+        },
+        {
+            "popularity": 254,
+            "tag": "자동화"
+        },
+        {
+            "popularity": 255,
+            "tag": "분할 화면"
+        },
+        {
+            "popularity": 256,
+            "tag": "패러디"
+        },
+        {
+            "popularity": 257,
+            "tag": "개척 시뮬레이션"
+        },
+        {
+            "popularity": 258,
+            "tag": "블렛타임"
+        },
+        {
+            "popularity": 259,
+            "tag": "풍자"
+        },
+        {
+            "popularity": 260,
+            "tag": "미스터리 던전"
+        },
+        {
+            "popularity": 261,
+            "tag": "거래"
+        },
+        {
+            "popularity": 262,
+            "tag": "농장 시뮬레이션"
+        },
+        {
+            "popularity": 263,
+            "tag": "퀵타임 이벤트"
+        },
+        {
+            "popularity": 264,
+            "tag": "생명체 수집가"
+        },
+        {
+            "popularity": 265,
+            "tag": "오픈 월드 생존 제작"
+        },
+        {
+            "popularity": 266,
+            "tag": "시간 조종"
+        },
+        {
+            "popularity": 267,
+            "tag": "중독성"
+        },
+        {
+            "popularity": 268,
+            "tag": "히어로 슈팅"
+        },
+        {
+            "popularity": 269,
+            "tag": "다이내믹 내레이션"
+        },
+        {
+            "popularity": 270,
+            "tag": "고딕"
+        },
+        {
+            "popularity": 271,
+            "tag": "스팀펑크"
+        },
+        {
+            "popularity": 272,
+            "tag": "지하"
+        },
+        {
+            "popularity": 273,
+            "tag": "농업"
+        },
+        {
+            "popularity": 274,
+            "tag": "복셀"
+        },
+        {
+            "popularity": 275,
+            "tag": "정치적"
+        },
+        {
+            "popularity": 276,
+            "tag": "일루미나티"
+        },
+        {
+            "popularity": 277,
+            "tag": "낱말 게임"
+        },
+        {
+            "popularity": 278,
+            "tag": "약탈 슈팅"
+        },
+        {
+            "popularity": 279,
+            "tag": "매크"
+        },
+        {
+            "popularity": 280,
+            "tag": "마이닝"
+        },
+        {
+            "popularity": 281,
+            "tag": "스펙터클 파이터"
+        },
+        {
+            "popularity": 282,
+            "tag": "무술"
+        },
+        {
+            "popularity": 283,
+            "tag": "시간 여행"
+        },
+        {
+            "popularity": 284,
+            "tag": "사냥"
+        },
+        {
+            "popularity": 285,
+            "tag": "요리"
+        },
+        {
+            "popularity": 286,
+            "tag": "전투 레이싱"
+        },
+        {
+            "popularity": 287,
+            "tag": "오토메"
+        },
+        {
+            "popularity": 288,
+            "tag": "개"
+        },
+        {
+            "popularity": 289,
+            "tag": "MOBA"
+        },
+        {
+            "popularity": 290,
+            "tag": "신 게임"
+        },
+        {
+            "popularity": 291,
+            "tag": "해적"
+        },
+        {
+            "popularity": 292,
+            "tag": "탱크"
+        },
+        {
+            "popularity": 293,
+            "tag": "마우스만 사용"
+        },
+        {
+            "popularity": 294,
+            "tag": "사진 편집"
+        },
+        {
+            "popularity": 295,
+            "tag": "해킹"
+        },
+        {
+            "popularity": 296,
+            "tag": "닌자"
+        },
+        {
+            "popularity": 297,
+            "tag": "비동기 멀티플레이어"
+        },
+        {
+            "popularity": 298,
+            "tag": "정치"
+        },
+        {
+            "popularity": 299,
+            "tag": "솔리테어"
+        },
+        {
+            "popularity": 300,
+            "tag": "육각형 그리드"
+        },
+        {
+            "popularity": 301,
+            "tag": "리메이크"
+        },
+        {
+            "popularity": 302,
+            "tag": "낚시"
+        },
+        {
+            "popularity": 303,
+            "tag": "FMV"
+        },
+        {
+            "popularity": 304,
+            "tag": "트레이딩 카드 게임"
+        },
+        {
+            "popularity": 305,
+            "tag": "뱀파이어"
+        },
+        {
+            "popularity": 306,
+            "tag": "실시간"
+        },
+        {
+            "popularity": 307,
+            "tag": "컬트 클래식"
+        },
+        {
+            "popularity": 308,
+            "tag": "에피소드"
+        },
+        {
+            "popularity": 309,
+            "tag": "서사"
+        },
+        {
+            "popularity": 310,
+            "tag": "오토 배틀러"
+        },
+        {
+            "popularity": 311,
+            "tag": "몰입형"
+        },
+        {
+            "popularity": 312,
+            "tag": "냉전"
+        },
+        {
+            "popularity": 313,
+            "tag": "암살"
+        },
+        {
+            "popularity": 314,
+            "tag": "내러티브"
+        },
+        {
+            "popularity": 315,
+            "tag": "슈퍼 히어로"
+        },
+        {
+            "popularity": 316,
+            "tag": "수중"
+        },
+        {
+            "popularity": 317,
+            "tag": "4X"
+        },
+        {
+            "popularity": 318,
+            "tag": "신념"
+        },
+        {
+            "popularity": 319,
+            "tag": "프로그래밍"
+        },
+        {
+            "popularity": 320,
+            "tag": "액션 RTS"
+        },
+        {
+            "popularity": 321,
+            "tag": "공룡"
+        },
+        {
+            "popularity": 322,
+            "tag": "소코반"
+        },
+        {
+            "popularity": 323,
+            "tag": "정치 시뮬레이션"
+        },
+        {
+            "popularity": 324,
+            "tag": "강도"
+        },
+        {
+            "popularity": 325,
+            "tag": "웨스턴"
+        },
+        {
+            "popularity": 326,
+            "tag": "해군"
+        },
+        {
+            "popularity": 327,
+            "tag": "파티 게임"
+        },
+        {
+            "popularity": 328,
+            "tag": "기차"
+        },
+        {
+            "popularity": 329,
+            "tag": "파티"
+        },
+        {
+            "popularity": 330,
+            "tag": "미니게임"
+        },
+        {
+            "popularity": 331,
+            "tag": "활쏘기"
+        },
+        {
+            "popularity": 332,
+            "tag": "외국"
+        },
+        {
+            "popularity": 333,
+            "tag": "교통 수단"
+        },
+        {
+            "popularity": 334,
+            "tag": "일시 정지 가능한 실시간"
+        },
+        {
+            "popularity": 335,
+            "tag": "외교"
+        },
+        {
+            "popularity": 336,
+            "tag": "눈"
+        },
+        {
+            "popularity": 337,
+            "tag": "해상 전투"
+        },
+        {
+            "popularity": 338,
+            "tag": "트랜스휴머니즘"
+        },
+        {
+            "popularity": 339,
+            "tag": "타이핑"
+        },
+        {
+            "popularity": 340,
+            "tag": "킥스타터"
+        },
+        {
+            "popularity": 341,
+            "tag": "도박"
+        },
+        {
+            "popularity": 342,
+            "tag": "항해"
+        },
+        {
+            "popularity": 343,
+            "tag": "악당 주인공"
+        },
+        {
+            "popularity": 344,
+            "tag": "던전 앤 드래곤"
+        },
+        {
+            "popularity": 345,
+            "tag": "속편"
+        },
+        {
+            "popularity": 346,
+            "tag": "모드"
+        },
+        {
+            "popularity": 347,
+            "tag": "저격수"
+        },
+        {
+            "popularity": 348,
+            "tag": "방 탈출"
+        },
+        {
+            "popularity": 349,
+            "tag": "음악 기반 절차적 생성"
+        },
+        {
+            "popularity": 350,
+            "tag": "레일 슈팅"
+        },
+        {
+            "popularity": 351,
+            "tag": "체험"
+        },
+        {
+            "popularity": 352,
+            "tag": "터치 친화적"
+        },
+        {
+            "popularity": 353,
+            "tag": "오프로드"
+        },
+        {
+            "popularity": 354,
+            "tag": "화성"
+        },
+        {
+            "popularity": 355,
+            "tag": "추억 소환"
+        },
+        {
+            "popularity": 356,
+            "tag": "축구"
+        },
+        {
+            "popularity": 357,
+            "tag": "시간 공격"
+        },
+        {
+            "popularity": 358,
+            "tag": "게임메이커"
+        },
+        {
+            "popularity": 359,
+            "tag": "제1차 세계 대전"
+        },
+        {
+            "popularity": 360,
+            "tag": "로그라이크 덱빌딩"
+        },
+        {
+            "popularity": 361,
+            "tag": "아늑함"
+        },
+        {
+            "popularity": 362,
+            "tag": "360 동영상"
+        },
+        {
+            "popularity": 363,
+            "tag": "정통 로그라이크"
+        },
+        {
+            "popularity": 364,
+            "tag": "늑대 인간"
+        },
+        {
+            "popularity": 365,
+            "tag": "건전함"
+        },
+        {
+            "popularity": 366,
+            "tag": "말"
+        },
+        {
+            "popularity": 367,
+            "tag": "상식 퀴즈"
+        },
+        {
+            "popularity": 368,
+            "tag": "게임즈 워크숍"
+        },
+        {
+            "popularity": 369,
+            "tag": "파밍"
+        },
+        {
+            "popularity": 370,
+            "tag": "복싱"
+        },
+        {
+            "popularity": 371,
+            "tag": "다큐멘터리"
+        },
+        {
+            "popularity": 372,
+            "tag": "게이밍"
+        },
+        {
+            "popularity": 373,
+            "tag": "제트"
+        },
+        {
+            "popularity": 374,
+            "tag": "체스"
+        },
+        {
+            "popularity": 375,
+            "tag": "아웃브레이크 시뮬레이션"
+        },
+        {
+            "popularity": 376,
+            "tag": "말을 안 하는 주인공"
+        },
+        {
+            "popularity": 377,
+            "tag": "우주선"
+        },
+        {
+            "popularity": 378,
+            "tag": "초고난도"
+        },
+        {
+            "popularity": 379,
+            "tag": "의학 시뮬레이션"
+        },
+        {
+            "popularity": 380,
+            "tag": "맞춤법"
+        },
+        {
+            "popularity": 381,
+            "tag": "레고"
+        },
+        {
+            "popularity": 382,
+            "tag": "골프"
+        },
+        {
+            "popularity": 383,
+            "tag": "오토바이"
+        },
+        {
+            "popularity": 384,
+            "tag": "크라우드펀딩"
+        },
+        {
+            "popularity": 385,
+            "tag": "로마"
+        },
+        {
+            "popularity": 386,
+            "tag": "비대칭 VR"
+        },
+        {
+            "popularity": 387,
+            "tag": "전자 음악"
+        },
+        {
+            "popularity": 388,
+            "tag": "로그바니아"
+        },
+        {
+            "popularity": 389,
+            "tag": "잠수함"
+        },
+        {
+            "popularity": 390,
+            "tag": "바이크"
+        },
+        {
+            "popularity": 391,
+            "tag": "농구"
+        },
+        {
+            "popularity": 392,
+            "tag": "미식축구"
+        },
+        {
+            "popularity": 393,
+            "tag": "핀볼"
+        },
+        {
+            "popularity": 394,
+            "tag": "분위기"
+        },
+        {
+            "popularity": 395,
+            "tag": "인스트루멘탈 음악"
+        },
+        {
+            "popularity": 396,
+            "tag": "소셜 디덕션"
+        },
+        {
+            "popularity": 397,
+            "tag": "TrackIR"
+        },
+        {
+            "popularity": 398,
+            "tag": "워해머 40K"
+        },
+        {
+            "popularity": 399,
+            "tag": "미니 골프"
+        },
+        {
+            "popularity": 400,
+            "tag": "스케이트보딩"
+        },
+        {
+            "popularity": 401,
+            "tag": "레슬링"
+        },
+        {
+            "popularity": 402,
+            "tag": "소설 기반"
+        },
+        {
+            "popularity": 403,
+            "tag": "락 음악"
+        },
+        {
+            "popularity": 404,
+            "tag": "바이킹"
+        },
+        {
+            "popularity": 405,
+            "tag": "당구"
+        },
+        {
+            "popularity": 406,
+            "tag": "야구"
+        },
+        {
+            "popularity": 407,
+            "tag": "깜놀"
+        },
+        {
+            "popularity": 408,
+            "tag": "사이클링"
+        },
+        {
+            "popularity": 409,
+            "tag": "의도적으로 불편한 컨트롤"
+        },
+        {
+            "popularity": 410,
+            "tag": "스케이팅"
+        },
+        {
+            "popularity": 411,
+            "tag": "테니스"
+        },
+        {
+            "popularity": 412,
+            "tag": "모터크로스"
+        },
+        {
+            "popularity": 413,
+            "tag": "레밍"
+        },
+        {
+            "popularity": 414,
+            "tag": "보스 러시"
+        },
+        {
+            "popularity": 415,
+            "tag": "볼링"
+        },
+        {
+            "popularity": 416,
+            "tag": "Steam Machine"
+        },
+        {
+            "popularity": 417,
+            "tag": "8비트 음악"
+        },
+        {
+            "popularity": 418,
+            "tag": "벤치마크"
+        },
+        {
+            "popularity": 419,
+            "tag": "타일 매치"
+        },
+        {
+            "popularity": 420,
+            "tag": "하키"
+        },
+        {
+            "popularity": 421,
+            "tag": "하드웨어"
+        },
+        {
+            "popularity": 422,
+            "tag": "훌륭한 각본"
+        },
+        {
+            "popularity": 423,
+            "tag": "스노보딩"
+        },
+        {
+            "popularity": 424,
+            "tag": "BMX"
+        },
+        {
+            "popularity": 425,
+            "tag": "ATV"
+        },
+        {
+            "popularity": 426,
+            "tag": "직업 시뮬레이션"
+        },
+        {
+            "popularity": 427,
+            "tag": "스키"
+        },
+        {
+            "popularity": 428,
+            "tag": "일렉트로닉"
+        },
+        {
+            "popularity": 429,
+            "tag": "보이스 컨트롤"
+        },
+        {
+            "popularity": 430,
+            "tag": "장편 영화"
+        },
+        {
+            "popularity": 431,
+            "tag": "마작"
+        },
+        {
+            "popularity": 432,
+            "tag": "무쌍"
+        },
+        {
+            "popularity": 433,
+            "tag": "사업장 관리"
+        },
+        {
+            "popularity": 434,
+            "tag": "럭비"
+        },
+        {
+            "popularity": 435,
+            "tag": "배구"
+        },
+        {
+            "popularity": 436,
+            "tag": "리부트"
+        },
+        {
+            "popularity": 437,
+            "tag": "크리켓"
+        },
+        {
+            "popularity": 438,
+            "tag": "여우"
+        },
+        {
+            "popularity": 439,
+            "tag": "코딩"
+        },
+        {
+            "popularity": 440,
+            "tag": "스누커"
+        },
+        {
+            "popularity": 441,
+            "tag": "취미 시뮬레이션"
+        },
+        {
+            "popularity": 442,
+            "tag": "새"
+        }
+    ]
+}
