@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+#mealInfo {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  font-family: Arial, sans-serif;
+}
+
+#mealInfo h2 {
+  margin-top: 0;
+}
+
+#mealInfo p {
+  margin-bottom: 10px;
+}
