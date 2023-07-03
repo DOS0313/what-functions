@@ -1,27 +1,65 @@
-const apiKey = 'API KEY'; // Replace with your API key
-const apiUrl = `https://open.neis.go.kr/hub/mealServiceDietInfo?KEY=${apiKey}&Type=json&pIndex=1&pSize=100&ATPT_OFCDC_SC_CODE=Q10&SD_SCHUL_CODE=8490037`;
+const mealContainer = document.createElement("div");
+mealContainer.id = "meal-container";
+mealContainer.classList.add("meal-container");
 
-// Fetch data from the API
-fetch(apiUrl)
+const apiKey = "1fdd35b2af8a4cd494e2b0318a409155"; // Replace with your actual API key
+
+// Fetch meal information from NEIS API
+fetch(`https://open.neis.go.kr/hub/mealServiceDietInfo?KEY=${apiKey}&Type=json&pIndex=1&pSize=1&ATPT_OFCDC_SC_CODE=Q10&SD_SCHUL_CODE=8490037&MLSV_YMD=2023`)
   .then(response => response.json())
   .then(data => {
-    const mealInfo = data.mealServiceDietInfo[1].row[0];
+    // Check if the API response contains meal information
+    if (
+      data.hasOwnProperty("mealServiceDietInfo") &&
+      data.mealServiceDietInfo.length > 0 &&
+      data.mealServiceDietInfo[1].hasOwnProperty("row")
+    ) {
+      const meal = data.mealServiceDietInfo[1].row[0];
 
-    // Display the meal information
-    const mealInfoDiv = document.getElementById('mealInfo');
-    const html = `
-      <h2>${mealInfo.SCHUL_NM}</h2>
-      <p><strong>식사 유형:</strong> ${mealInfo.MMEAL_SC_NM}</p>
-      <p><strong>날짜:</strong> ${mealInfo.MLSV_YMD}</p>
-      <p><strong>식사 목록:</strong> ${mealInfo.DDISH_NM}</p>
-      <p><strong>원산지:</strong> ${mealInfo.ORPLC_INFO}</p>
-      <p><strong>칼로리 정보:</strong> ${mealInfo.CAL_INFO}</p>
-      <p><strong>영양소 정보:</strong> ${mealInfo.NTR_INFO}</p>
-    `;
-    mealInfoDiv.innerHTML = html;
+      const mealDetails = `
+        <p><strong>Date:</strong> ${meal.MLSV_YMD}</p>
+        <p><strong>Meal Type:</strong> ${meal.MMEAL_SC_NM}</p>
+        <p><strong>Menu:</strong> ${meal.DDISH_NM}</p>
+        <p><strong>Calories:</strong> ${meal.CAL_INFO}</p>
+        <p><strong>Nutritional Info:</strong> ${meal.NTR_INFO}</p>
+      `;
+
+      mealContainer.innerHTML = mealDetails;
+      
+      // Remove the empty mealContainer if it already exists
+      const existingMealContainer = document.getElementById("meal-container");
+      if (existingMealContainer) {
+        existingMealContainer.remove();
+      }
+
+      document.body.appendChild(mealContainer);
+    } else {
+      // Display an error message if there is no meal information available
+      const errorMessage = document.createElement("p");
+      errorMessage.classList.add("error-message");
+      errorMessage.textContent = "No meal information available.";
+      
+      // Remove the existing mealContainer if it already exists
+      const existingMealContainer = document.getElementById("meal-container");
+      if (existingMealContainer) {
+        existingMealContainer.remove();
+      }
+
+      document.body.appendChild(errorMessage);
+    }
   })
   .catch(error => {
-    console.error('에러:', error);
-    const mealInfoDiv = document.getElementById('mealInfo');
-    mealInfoDiv.innerHTML = '<p>급식정보를 불러오지 못했습니다.</p>';
+    // Display an error message if there is an error fetching the data
+    const errorMessage = document.createElement("p");
+    errorMessage.classList.add("error-message");
+    errorMessage.textContent = "An error occurred while fetching the meal information.";
+    
+    // Remove the existing mealContainer if it already exists
+    const existingMealContainer = document.getElementById("meal-container");
+    if (existingMealContainer) {
+      existingMealContainer.remove();
+    }
+
+    document.body.appendChild(errorMessage);
+    console.error(error);
   });
